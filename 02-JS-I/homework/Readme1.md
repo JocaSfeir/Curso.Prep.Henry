@@ -1,0 +1,5 @@
+Variables: Son palabras clave en las cuales guardamos una informacion para usar luego en el algoritmo
+Strings: son cuadros de textos que siempre estan encerrados en ''
+Funciones: sirven para podes modificar las variables, darles una "funcion" como bien dice su nombre, y podes interactuar con estas, lo que hace la funcion al ser "invocada" es aplicar los "argumentos" que estan dentro de esta para poder interactuar con las variables, los argumentos vendrian a ser las condiciones y variables que tiene que hacer esta funcion, y el "return" sirve para poder utilizar algo que este adentro de una funcion, si usamos console.log, daria el resultado undefined
+Declariaciones: el if vendrias a ser que si se cumple un condicion que se establece, el algoritmo devuelva lo que pide el if
+valores booleanos: los valores booleanos vendrian a ser complementarios con el if, ya que si al if le das valores booleanos lo que va a hacer es, si el resultado sale true mostrar algo y si sale false mostrar otra cosa
