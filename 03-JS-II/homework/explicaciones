@@ -1,0 +1,4 @@
+for : for es un bucle de operaciones las cuales uno le preasigna un principio y un fin para no generar un bucle infinito, asi no tenemos que repetir el mismo codigo modificado una y otra vez
+&& : este operador logico vendria a significar Y
+|| : este operador logico vendria a significar O
+! : este operador logico vendria a significar NO
